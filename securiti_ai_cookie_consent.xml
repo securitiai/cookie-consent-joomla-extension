@@ -120,4 +120,12 @@
 		</fields>
 	</config>
 
+    <updateservers>
+		<!--
+		<server type="extension" priority="1" name="SECURITI.ai Cookie Consent Update">URL for the securiti_ai_cookie_consent_update.xml</server>
+		-->
+		<server type="extension" priority="1" name="SECURITI.ai Cookie Consent Update">https://github.com/junghak-lee/cookie-consent-joomla/blob/main/securiti_ai_cookie_consent_update.xml</server>
+
+	</updateservers>
+
 </extension>
