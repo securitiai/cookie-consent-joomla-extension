@@ -1,60 +1,61 @@
+# Cookie Consent for GDPR/CPRA/CCPA | Securiti
 
-# Cookie Consent for GDPR/CCPA | Securiti
-
-Award-winning Cookie Consent plugin that allows you to generate Cookie Banner, Notice & Policy for your website. Supports GDPR, CCPA, PIPEDA and ePrivacy.
+Securiti Cookie Consent solution helps organizations automate global privacy compliance and allows you to automatically generate cookie compliant banners, privacy policies and notices for your website rapidly. The tool is designed for smooth, rapid deployment. Thousands of organizations are using Securiti’s Cookie Consent solution to comply with global privacy laws including GDPR/ePrivacy/CPRA/LGPD/PIPEDA and many more.
 
 ### Description
-Securiti is a Forrester Wave Leader in Privacy Management.
-Cookie Consent by Securiti helps organizations comply with global privacy regulations. Generate and deploy a cookie banner quickly!
-Securiti also helps developers meet privacy compliance with Data Subject Rights, Privacy Notice Management and Universal Consent.
+Securiti cookie consent management platform is an award-winning solution that automates global privacy compliance and is designed for seamless, rapid deployment.
 
-* [Universal Consent](https://securiti.ai/privaci/universal-consent-preference-management/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin)
-* [Privacy Notice Management](https://securiti.ai/privaci/privacy-notice-management/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin)
-* [DSR Portal](https://buy.securiti.ai/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin)
+Not only would you get the Cookie consent banner, but you will also get an optional overall privacy center and privacy notice modules with it. You can choose to use the cookie consent module by itself or use the full power of a comprehensive privacy center. Check details at [privacycenter.cloud](https://privacycenter.cloud)
 
+##### An overall Privacy Center can help you with the following:
+- Manage cookie consent and generate a privacy policy from a single platform.
+- Differentiate your website by demonstrating a commitment toward data privacy.
+- Build trust with your users by giving them control over their data.
+- Provide your website visitors with a central location to view your privacy practices and manage their data.
+- Demonstrate a commitment to transparency and compliance with privacy regulations.
+- Build privacy notices from built-in templates in a hassle-free manner.
+- Comply with a myriad of global privacy regulations.
 
-### Overview
+### Getting Started:
 
-Use the Cookie Consent by Securiti plugin to rapidly deploy a cookie banner on your website by simply pasting the cookie consent script automatically generated in your Securiti account into the plugin script box.
+- Create your Privacy Center by [signing up](http://privacycenter.cloud/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin) for free.
+- Enter your website URL.
+- The solution will scan your website and automatically categorize cookies.
+- Customize your cookie banner.
+- Configure your cookie preference center.
+- Embed the consent code on your website.
+- Customize the front end of your privacy center.
+- Quickly build and publish a privacy notice by making use of templates.
+- Publish your privacy center and embed the hosted link on your website.
 
-https://www.youtube.com/watch?v=OiJlvfj_ThE
+**Here is the step by step guide to see how it works:**
+[https://securiti.ai/cookie-consent-integrations/joomla/](https://securiti.ai/cookie-consent-integrations/joomla/)
 
+### Feature Highlights:
 
-### GETTING STARTED
-Sign up for a [free account](https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin) to retrieve the cookie banner script in a few easy steps.
+- Periodic scanning of your website to scan and classify cookies.
+- Rapid deployment of banner JS with reverse IP detection to comply with consent requirements around the world.
+- Leverage our auto-blocking script to honor consumer preferences without additional coding.
+- Build and publish a global privacy notice in minutes by leveraging one of many pre-defined templates.
+- Keep your privacy notices up-to-date by reflecting changes in your processing activities, websites, and assets. Keep privacy risks at bay by keeping privacy notices updated in real-time.
+- Fully customizable privacy center front end.
 
-### HOW IT WORKS
+You can also upgrade your PrivacyCenter account to experience the full suite of features which include:
 
-1. [Register and gain access](https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin) to a free account.
-2. Enter a website URL to start scanning
-3. Approve the automatic cookie categorization from scan results
-4. Copy the cookie consent script and paste it in the plugin
-
-### FEATURE HIGHLIGHTS
-
-* Periodically scan websites for cookies
-* Highly optimized for low-latency page performance
-* Integrate with your dev pipeline
-* Dynamically display different languages
-* Auto-blocking of cookies
-* Auto-update Privacy Notices
-* Consent records and reporting
-* Reverse IP detection for global compliance
-* Configurable preference center
-
-### Global Regulatory Coverage
-To view the global regulatory coverage, [click here](https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin#global-regulatory-coverage). You can also comply with various levels of consent around the world by downloading our [Global Consent Requirements, Q1 2021](https://securiti.ai/company/collateral/cookie-consent-global-heat-map/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin) guide.
-
-### High Performance Caching
-To view strategically placed CDNs in high traffic areas and data centers which allow for quick and efficient delivery of content, [click here](https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin#high-performance-caching).
+- **Managed Individual Data Requests:** Delight consumers by letting them exercise their privacy rights and take control of their data. Support programmatic handling of the right to access, delete, or correction of their data.
+- **Do Not Sell:** Under CCPA, companies must display a Do Not Sell My Personal Information link prominently with guidance on how to opt out of the sale of their data. Comply with CCPA regulations and honor consumer requests.
+- **Consent Preferences:** First party consent management through.
 
 ### Support
-Email us at support@securiti.ai
 
-#### DISCLAIMER
-Use of this plugin does not, by itself, ensure compliance with legal requirements related to cookies.
+For any queries, you can reach out to us by joining our [Slack community](https://join.slack.com/t/privacycentercloud/shared_invite/zt-1pmkm4oib-twu0UZthcmfCNs6lqoQ9gQ).
 
-#### ABOUT
-Securiti is a global leader in PrivacyOps.  It helps you comply with global privacy laws including GDPR, CCPA, and ePrivacy and is powered by an award-winning platform.
+### Disclaimer
 
-Securiti is a Forrester Wave Leader, and named Most Innovative Company by RSA and IAPP.
+Use of this extension does not, by itself, ensure compliance with legal requirements related to cookies.
+
+### About Securiti
+
+Data is the fastest growing thing on the planet, spanning complex multicloud environments. Obligations around this data are increasingly complex. Securiti is the leading provider of Unified Data Controls designed to address these challenges. Its DataControls Cloud creates a layer of unified data intelligence and controls across all major public clouds, data clouds, SaaS and private clouds. The solution enables  enterprises to fulfill key obligations around data security, privacy, governance and compliance.
+
+Large global organizations rely on Securiti to identify and secure sensitive data, address privacy rights, govern access to data, comply with global data regulations and more.

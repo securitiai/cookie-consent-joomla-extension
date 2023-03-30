@@ -1,49 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.1" type="plugin" group="system" method="upgrade">
-	<name>System - Cookie Consent for GDPR/CCPA | Securiti</name>
+<extension version="4" type="plugin" group="system" method="upgrade">
+	<name>System - Cookie Consent for DPR/CPRA/CCPA | Securiti</name>
 	<author>Securiti</author>
 	<creationDate>January 2021</creationDate>
 	<copyright>Copyright (C) 2021 Securiti</copyright>
 	<license>GNU General Public License version 2 or later</license>
 	<authorEmail>support@securiti.ai</authorEmail>
 	<authorUrl>www.securiti.ai</authorUrl>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<description>
 		<![CDATA[
-        <h1 style="text-align:left; font-weight: bold;">Cookie Consent for GDPR/CCPA | Securiti</h1>
+        <div style="background:white;padding:10px;color:black">
+        <h1 style="text-align:left; font-weight: bold; margin-bottom:20px">Cookie Consent for GDPR/CPRA/CCPA | Securiti</h1>
 
-        <div style="padding: 20px; background-color: #1aa9dd; width: 95%; background-image: url(../plugins/system/securiti_ai_cookie_consent/assets/media/header-bg.jpg); background-position: center center; background-size: contain; background-repeat: no-repeat; display: flex; justify-content: space-around; align-items: center; align-content: center;">
-            <div style="max-width: 304px; padding-right: 15px; min-width: 208px; display:inline-block;">
-                <h2>
-                    <a target="_blank" rel="noopener noreferrer" href="https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product_banner">
-                        <img src="../plugins/system/securiti_ai_cookie_consent/assets/media/logo.png"
-                        style="width: 200px;" width="261" alt="Cookie Consent by Securiti"/>
-                    </a>
-                </h2>
-            </div>
-
-            <div style="max-width: 304px; padding-left:100px; padding-right: 100px;min-width: 208px; display:inline-block;">
-                <p style="font-size: 1.7rem; color: #fff; line-height: normal;margin: 0;">Global Leader in Privacy Management</p>
-            </div>
-
-            <div style="max-width: 304px; padding-right: 15px; min-width: 208px; display:inline-block;">
-                    <a href="https://www.rsaconference.com/about/press-releases/securitiai-named-most-innovative-startup-at-rsa-conference-innovation-sandbox/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin"><img src="../plugins/system/securiti_ai_cookie_consent/assets/media/header-rsac.png" width="92" alt="Cookie Consent by Securiti"/></a>
-                    <a href="https://securiti.ai/privacy-mangement-forrester-wave-report/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin"><img src="../plugins/system/securiti_ai_cookie_consent/assets/media/forrester-header.png" width="92" alt="Forrester Wave Report"/></a>
-                    <a href="https://securiti.ai/press-release/securiti-ai-wins-coveted-iapp-privacy-innovation-award/?utm_source=joomla&utm_medium=referral&utm_campaign=plugin"><img src="../plugins/system/securiti_ai_cookie_consent/assets/media/forrester-header.png" width="92" alt="Forrester Wave Report"/></a>
-            </div>
-        </div>
-
-        <div style="margin-top: 30px; display: flex;">
-            <div style="vertical-align: top; padding: 10px; background: #ffffff; margin-left: 10px; width:45%; display:inline-block">
+        <div style="display: flex;">
+            <div style="vertical-align: top; background: #ffffff; width:50%; display:inline-block">
                 <div>
                     <div>
-                        <h3 style="textTransform: none; color: #4F4391">Getting Started with
-                           <a style="color: #6F3D9D" href="https://securiti.ai/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product_banner" target="_blank" rel="noopener noreferrer">
+                        <h3 style="textTransform: none; color: #1f2228">Getting Started with
+                           <a style="color: #1ca8dd" href="https://securiti.ai/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product_banner" target="_blank" rel="noopener noreferrer">
                                 Securiti
                            </a>
                         </h3>
                         <p>This component of the Securiti plugin requires a freemium account.</p>
-                        <a href="https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product" style="display: inline-block; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #49485D;" target="_blank" rel="noopener noreferrer">
+                        <a href="https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product" style="display: inline-block; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd;" target="_blank" rel="noopener noreferrer">
                             Sign up for Free
                         </a>
                     </div>
@@ -52,43 +32,44 @@
 
                     <div>
                         <p>
-                            Once you have <a style="color: #4F4391" href="https://app.securiti.ai/#/consent" target="_blank" rel="noopener noreferrer">access to a Securiti account</a>, &nbsp; copy and paste your styling and cookie consent script into the box below to start display our cookie banner on your Joomla website.
+                            Once you have <a style="color: #1ca8dd" href="https://app.securiti.ai/#/consent" target="_blank" rel="noopener noreferrer">access to a Securiti account</a>, copy and paste your styling and cookie consent script into the box below to start display our cookie banner on your Joomla website.
                         </p>
                     </div>
                 </div>
-
+                <hr/>
                 <div>
-                    <h3 style="color: #4F4391">WHAT TO EXPECT</h3>
-                    <p style="margin-bottom: 2rem;">Securiti automatically deploys the Cookie Consent script onto your site to enable visitors to provide or withdraw consent.</p>
-
-                    <h3 style="color: #4F4391">DISCLAIMER</h3>
+                    <h3 style="color: #1f2228">WHAT TO EXPECT</h3>
+                    <p style="">Securiti automatically deploys the Cookie Consent script onto your site to enable visitors to provide or withdraw consent.</p>
+                    <hr/>
+                    <h3 style="color: #1f2228">DISCLAIMER</h3>
                     <p>Use of this plugin does not, by itself, ensure compliance with legal requirements related to cookies</p>
                 </div>
             </div>
 
-            <div style="padding: 30px; background: #ffffff; margin-top:0; margin-left: 30px; width:45%; float: right; display:inline-block">
-                <a href="https://app.securiti.ai/#/consent/" style="display: inline-block; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #49485D;"
-                target="_blank" rel="noopener noreferrer">Access Securiti Account</a>
+            <div style="background: #ffffff; margin-top:0; margin-left: 30px; width:50%; display:inline-block">
+                <div style="display:flex;gap:10px">
+                <a href="https://app.securiti.ai/#/consent/" style="display: block; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd; width:50%;" target="_blank" rel="noopener noreferrer">Access Securiti Account</a>
 
-                <a href="https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product" style="display: inline-block; margin-left: 10px; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 11px 40px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #49485D;" target="_blank" rel="noopener noreferrer">Create Securiti Account</a>
+                <a href="https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product" style="display: block;  text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd; width:50%;" target="_blank" rel="noopener noreferrer">Create Securiti Account</a>
+                </div>
+                <hr/>
+
+                <h3 style="color: #1f2228">GET HELP</h3>
+                <p>Email us at <a style="color: #1ca8dd" href="mailto:support@securiti.ai">support@securiti.ai</a></p>
 
                 <hr/>
 
-                <h3 style="color: #4F4391">GET HELP</h3>
-                <p>Email us at <a style="color: #4F4391" href="mailto:support@securiti.ai">support@securiti.ai</a></p>
-
-                <hr/>
-
-                <h3 style="color: #4F4391">HOW DO I UPGRADE FROM THE FREE EDITION</h3>
+                <h3 style="color: #1f2228">HOW DO I UPGRADE FROM THE FREE EDITION</h3>
                 <p style="marginBottom: '1rem'">Upgrade to a Plan 1</p>
 
-                <p>Subscription by purchasing it on our <a style="color: #4F4391" href="https://buy.securiti.ai/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product_pricing" target="_blank" rel="noopener noreferrer">pricing page.</a> Simply follow the checkout process, enter your payment details to upgrade your account</p>
+                <p>Subscription by purchasing it on our <a style="color: #1ca8dd" href="https://buy.securiti.ai/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product_pricing" target="_blank" rel="noopener noreferrer">pricing page.</a> Simply follow the checkout process, enter your payment details to upgrade your account</p>
 
                 <hr/>
 
-                <h3 style="color: #4F4391">ABOUT</h3>
-                <p>Securiti provides a comprehensive privacy compliance platform for global privacy law including GDPR, CCPA, and ePrivacy and is powered by an award-winning platform. Securiti was named a leader in the Forrester Wave 2020 and Most Innovative Startup in RSA 2020.</p>
+                <h3 style="color: #1f2228">ABOUT</h3>
+                <p>Securiti provides a comprehensive privacy compliance platform for global privacy law including GDPR, CPRA, CCPA, and ePrivacy and is powered by an award-winning platform. Securiti was named a leader in the Forrester Wave 2020 and Most Innovative Startup in RSA 2020.</p>
             </div>
+        </div>
         </div>
         ]]>
 	</description>
@@ -97,10 +78,6 @@
 
 	<files>
 		<filename plugin="securiti_ai_cookie_consent">securiti_ai_cookie_consent.php</filename>
-		<filename>assets/media/forrester-header.png</filename>
-		<filename>assets/media/header-bg.jpg</filename>
-		<filename>assets/media/header-rsac.png</filename>
-		<filename>assets/media/logo.png</filename>
 	</files>
 
 	<config>
@@ -124,7 +101,7 @@
 		<!--
 		<server type="extension" priority="1" name="SECURITI.ai Cookie Consent Update">URL for the securiti_ai_cookie_consent_update.xml</server>
 		-->
-		<server type="extension" priority="1" name="SECURITI.ai Cookie Consent Update">https://github.com/junghak-lee/cookie-consent-joomla/blob/main/securiti_ai_cookie_consent_update.xml</server>
+		<server type="extension" priority="1" name="SECURITI.ai Cookie Consent Update">https://raw.githubusercontent.com/securitiai/cookie-consent-joomla-extension/main/securiti_ai_cookie_consent_update.xml</server>
 
 	</updateservers>
 
