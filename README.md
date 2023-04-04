@@ -1,11 +1,11 @@
-# Cookie Consent for GDPR/CPRA/CCPA | Securiti
+# Cookie Consent for GDPR/CPRA/CCPA | PrivacyCenter.cloud
 
-Securiti Cookie Consent solution helps organizations automate global privacy compliance and allows you to automatically generate cookie compliant banners, privacy policies and notices for your website rapidly. The tool is designed for smooth, rapid deployment. Thousands of organizations are using Securiti’s Cookie Consent solution to comply with global privacy laws including GDPR/ePrivacy/CPRA/LGPD/PIPEDA and many more.
+PrivacyCenter.cloud Cookie Consent solution helps organizations automate global privacy compliance and allows you to automatically generate cookie compliant banners, privacy policies and notices for your website rapidly. The tool is designed for smooth, rapid deployment. Thousands of organizations are using PrivacyCenter.cloud’s Cookie Consent solution to comply with global privacy laws including GDPR/ePrivacy/CPRA/LGPD/PIPEDA and many more.
 
 ### Description
-Securiti cookie consent management platform is an award-winning solution that automates global privacy compliance and is designed for seamless, rapid deployment.
+PrivacyCenter.cloud cookie consent management platform is an award-winning solution that automates global privacy compliance and is designed for seamless, rapid deployment.
 
-Not only would you get the Cookie consent banner, but you will also get an optional overall privacy center and privacy notice modules with it. You can choose to use the cookie consent module by itself or use the full power of a comprehensive privacy center. Check details at [privacycenter.cloud](https://privacycenter.cloud)
+Not only would you get the Cookie consent banner, but you will also get an optional overall privacy center and privacy notice modules with it. You can choose to use the cookie consent module by itself or use the full power of a comprehensive privacy center. Check details at [PrivacyCenter.cloud](https://privacycenter.cloud)
 
 ##### An overall Privacy Center can help you with the following:
 - Manage cookie consent and generate a privacy policy from a single platform.
@@ -54,8 +54,8 @@ For any queries, you can reach out to us by joining our [Slack community](https:
 
 Use of this extension does not, by itself, ensure compliance with legal requirements related to cookies.
 
-### About Securiti
+### About PrivacyCenter.cloud
 
-Data is the fastest growing thing on the planet, spanning complex multicloud environments. Obligations around this data are increasingly complex. Securiti is the leading provider of Unified Data Controls designed to address these challenges. Its DataControls Cloud creates a layer of unified data intelligence and controls across all major public clouds, data clouds, SaaS and private clouds. The solution enables  enterprises to fulfill key obligations around data security, privacy, governance and compliance.
+PrivacyCenter.cloud is an all-in-one solution that helps you set up a fully functional privacy center in minutes to automate your key privacy functions. It is not only the Consent Management Platform, but the tool also helps you manage Privacy Notices, Cookies & 3rd party consent, User Preferences, Individual Rights Requests, Do Not Sell and Do Not Track Signals.
 
-Large global organizations rely on Securiti to identify and secure sensitive data, address privacy rights, govern access to data, comply with global data regulations and more.
+To learn more, visit [PrivacyCenter.cloud](https://privacycenter.cloud)
