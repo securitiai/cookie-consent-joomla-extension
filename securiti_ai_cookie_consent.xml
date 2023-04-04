@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="4" type="plugin" group="system" method="upgrade">
-	<name>System - Cookie Consent for DPR/CPRA/CCPA | Securiti</name>
-	<author>Securiti</author>
+	<name>Cookie Consent for DPR/CPRA/CCPA | Securiti</name>
+	<author>PrivacyCenter.cloud</author>
 	<creationDate>January 2021</creationDate>
-	<copyright>Copyright (C) 2021 Securiti</copyright>
+	<copyright>Copyright (C) 2023 PrivacyCenter.cloud</copyright>
 	<license>GNU General Public License version 2 or later</license>
 	<authorEmail>support@securiti.ai</authorEmail>
-	<authorUrl>www.securiti.ai</authorUrl>
+	<authorUrl>PrivacyCenter.cloud</authorUrl>
 	<version>1.1.1</version>
 	<description>
 		<![CDATA[
         <div style="background:white;padding:10px;color:black">
-        <h1 style="text-align:left; font-weight: bold; margin-bottom:20px">Cookie Consent for GDPR/CPRA/CCPA | Securiti</h1>
+        <h1 style="text-align:left; font-weight: bold; margin-bottom:20px">Cookie Consent for GDPR/CPRA/CCPA | PrivacyCenter.cloud</h1>
 
         <div style="display: flex;">
             <div style="vertical-align: top; background: #ffffff; width:50%; display:inline-block">
                 <div>
                     <div>
-                        <h3 style="textTransform: none; color: #1f2228">Getting Started with
-                           <a style="color: #1ca8dd" href="https://securiti.ai/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product_banner" target="_blank" rel="noopener noreferrer">
-                                Securiti
-                           </a>
+                        <h3 style="textTransform: none; color: #1f2228">Getting Started with PrivacyCenter.cloud
                         </h3>
-                        <p>This component of the Securiti plugin requires a freemium account.</p>
-                        <a href="https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product" style="display: inline-block; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd;" target="_blank" rel="noopener noreferrer">
+                        <p>This component of the PrivacyCenter.cloud plugin requires a freemium account.</p>
+                        <a href="https://securiti.ai/privacy-center/pricing/?utm_source=joomla&utm_medium=referral&utm_campaign=privacy_center_product" style="display: inline-block; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd;" target="_blank" rel="noopener noreferrer">
                             Sign up for Free
                         </a>
                     </div>
@@ -32,14 +29,14 @@
 
                     <div>
                         <p>
-                            Once you have <a style="color: #1ca8dd" href="https://app.securiti.ai/#/consent" target="_blank" rel="noopener noreferrer">access to a Securiti account</a>, copy and paste your styling and cookie consent script into the box below to start display our cookie banner on your Joomla website.
+                            Once you sign up, follow the steps that are mentioned in this <a href="https://securiti.ai/cookie-consent-integrations/joomla/?utm_source=joomla&utm_medium=referral&utm_campaign=privacy_center_product" target="_blank" rel="noopener noreferrer">guide</a> to generate the cookie consent script.
                         </p>
                     </div>
                 </div>
                 <hr/>
                 <div>
                     <h3 style="color: #1f2228">WHAT TO EXPECT</h3>
-                    <p style="">Securiti automatically deploys the Cookie Consent script onto your site to enable visitors to provide or withdraw consent.</p>
+                    <p style="">PrivacyCenter.cloud automatically deploys the Cookie Consent script onto your site to enable visitors to provide or withdraw consent.</p>
                     <hr/>
                     <h3 style="color: #1f2228">DISCLAIMER</h3>
                     <p>Use of this plugin does not, by itself, ensure compliance with legal requirements related to cookies</p>
@@ -48,31 +45,33 @@
 
             <div style="background: #ffffff; margin-top:0; margin-left: 30px; width:50%; display:inline-block">
                 <div style="display:flex;gap:10px">
-                <a href="https://app.securiti.ai/#/consent/" style="display: block; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd; width:50%;" target="_blank" rel="noopener noreferrer">Access Securiti Account</a>
+                <a href="https://app.securiti.ai/#/consent/" style="display: block; text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd; width:50%;" target="_blank" rel="noopener noreferrer">Access PrivacyCenter.cloud Account</a>
 
-                <a href="https://securiti.ai/privaci/cookie-consent-management/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product" style="display: block;  text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd; width:50%;" target="_blank" rel="noopener noreferrer">Create Securiti Account</a>
+                <a href="https://securiti.ai/privacy-center/pricing/?utm_source=joomla&utm_medium=referral&utm_campaign=privacy_center_product" style="display: block;  text-align: center; vertical-align: middle; -webkit-user-select: none; user-select: none; transition: 0.2s ease-in-out; padding: 9px 36px; font-size: 14px; color: #ffffff; background-color: #1C1A34; border-radius: 3px; text-decoration: none; line-height: 1.4; cursor: pointer; border: 2px solid transparent; background-color: #1ca8dd; width:50%;" target="_blank" rel="noopener noreferrer">Create PrivacyCenter.cloud Account</a>
                 </div>
                 <hr/>
 
                 <h3 style="color: #1f2228">GET HELP</h3>
-                <p>Email us at <a style="color: #1ca8dd" href="mailto:support@securiti.ai">support@securiti.ai</a></p>
+                <p>Reach out to us by joining our <a href="https://join.slack.com/t/privacycentercloud/shared_invite/zt-1pmkm4oib-twu0UZthcmfCNs6lqoQ9gQ" target="_blank" rel="noopener noreferrer">Slack community</a>.</p>
 
                 <hr/>
 
                 <h3 style="color: #1f2228">HOW DO I UPGRADE FROM THE FREE EDITION</h3>
-                <p style="marginBottom: '1rem'">Upgrade to a Plan 1</p>
+                <p style="marginBottom: '1rem'">Upgrade to Pro, Business or Enterprise Plan</p>
 
                 <p>Subscription by purchasing it on our <a style="color: #1ca8dd" href="https://securiti.ai/privacy-center/pricing/?utm_source=joomla&utm_medium=referral&utm_campaign=privacy_center_pricing" target="_blank" rel="noopener noreferrer">pricing page.</a> Simply follow the checkout process, enter your payment details to upgrade your account</p>
 
                 <hr/>
 
-                <h3 style="color: #1f2228">ABOUT</h3>
-                <p>Securiti provides a comprehensive privacy compliance platform for global privacy law including GDPR, CPRA, CCPA, and ePrivacy and is powered by an award-winning platform. Securiti was named a leader in the Forrester Wave 2020 and Most Innovative Startup in RSA 2020.</p>
+                <h3 style="color: #1f2228">ABOUT PRIVACYCENTER.CLOUD</h3>
+                <p>PrivacyCenter.cloud is an all-in-one solution that helps you set up a fully functional privacy center in minutes to automate your key privacy functions. It is not only the Consent Management Platform, but the tool also helps you manage Privacy Notices, Cookies & 3rd party consent, User Preferences, Individual Rights Requests, Do Not Sell and Do Not Track Signals.</p>
+                <p>To learn more, visit <a style="color: #1ca8dd" href="https://PrivacyCenter.cloud/?utm_source=joomla&utm_medium=referral&utm_campaign=cookie_consent_management_product_banner" target="_blank" rel="noopener noreferrer">privacycenter.cloud</a></p>
             </div>
         </div>
         </div>
         ]]>
 	</description>
+
 
 
 
@@ -86,7 +85,7 @@
 				<field
                     name="securiti_ai_cookie_consent_code"
                     type="textarea"
-                    label="Insert the code from Securiti here."
+                    label="Insert the code from PrivacyCenter.cloud here."
                     default=""
                     class="span12"
                     rows="7"

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
     <update>
-        <name>SECURITI.ai Cookie Consent</name>
-        <description>SECURITI.ai Cookie Consent Update</description>
+        <name>Cookie Consent for DPR/CPRA/CCPA | Securiti</name>
+        <description>PrivacyCenter.cloud Cookie Consent Update</description>
         <element>securiti_ai_cookie_consent</element>
         <type>plugin</type>
         <version>1.1.1</version>
@@ -14,7 +14,6 @@
         <infourl title="SECURITI.ai Cookie Consent v1.1.1">https://securiti.ai/privaci/cookie-consent-management/</infourl>
 
         <downloads>
-
             <!--
                <downloadurl type="full" format="zip">URL for the securiti_ai_cookie_consent v1.1.0.zip</downloadurl>
             -->
